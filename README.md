@@ -1,2 +1,24 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/uELM4yXj)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18285178&assignment_repo_type=AssignmentRepo)
+# Travel Expense Tracker
+
+## Description
+The Travel Expense Tracker is a Python application developed as part of the Software Engineering 1 class in the postbaccalaureate computer science program. It provides a convenient way to log and manage travel expenses, offering features such as trip logging, expense tracking, and currency conversion.
+
+## Features
+1. **Trip Logging**: Easily log details of your trips including trip name, dates, reason for travel, and location.
+2. **Expense Tracking**: Log expenses associated with each trip, including expense name, category, currency, amount, and additional notes.
+3. **Currency Conversion**: Convert logged expenses to a new user-designated currency using the FreeCurrencyAPI.
+
+## Installation
+1. Clone the repository:
+2. Navigate to the project directory:
+3. Install dependencies:
+
+
+## Usage
+1. Run the application:
+python main.py
+2. Use the provided GUI to:
+- Log trips by entering trip details.
+- Log expenses tied to each trip, specifying expense details.
+- Convert logged expenses to a new user-designated currency.
+
